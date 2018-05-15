@@ -10,6 +10,7 @@ include("inc/nav.inc.php");
 
 
     <!-- Page Content -->
+    <h1>Titre modifier</h1>
     <div class="container">
 
         <div class="row">
